@@ -1,0 +1,14 @@
+force -freeze sim:/lockahead_adder/A 0111 0
+force -freeze sim:/lockahead_adder/B 0101 0
+force -freeze sim:/lockahead_adder/Cin 0 0
+run
+
+force -freeze sim:/lockahead_adder/A 101 0
+force -freeze sim:/lockahead_adder/B 101 0
+force -freeze sim:/lockahead_adder/Cin 0 0
+run
+
+force -freeze sim:/lockahead_adder/A 111 0
+force -freeze sim:/lockahead_adder/B 001 0
+force -freeze sim:/lockahead_adder/Cin 0 0
+run
