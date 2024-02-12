@@ -2,11 +2,19 @@
 
 This Repo provides an overview of the various labs, along with their objectives and methodologies.
 
+## Project: Sequential Multiplier
+The Sequential Multiplier is a fundamental component in digital arithmetic units and processors for performing multiplication operations. It employs a shift-and-add algorithm to compute the product of two binary numbers sequentially. With careful design considerations, sequential multipliers can be optimized for speed, area, and power consumption to meet the requirements of various applications in digital systems.
+
+![block diagram](https://github.com/karimmahmoud22/Digital_Design/assets/82693464/32bdd550-dd4e-4d97-a29d-c325b385a63e)
+![1](https://github.com/karimmahmoud22/Digital_Design/assets/82693464/063da4bb-1929-42ca-b642-7c962f3f6b4d)
+![waveform](https://github.com/karimmahmoud22/Digital_Design/assets/82693464/d00b7fe2-8b0e-4e5d-bb76-e68b5268d00e)
+![results](https://github.com/karimmahmoud22/Digital_Design/assets/82693464/b7ec40a9-8f1e-473e-9c81-3a55bd2f894e)
+
+
 ## Lab 1: Introduction to FPGA Design Flow
 The main objective of this lab is to introduce the fundamentals of Intel’s Quartus design flow and its toolset. We learn about the synthesis tool, the Questa simulator, and FPGA implementation.
 
 ![image](https://github.com/karimmahmoud22/Digital_Design/assets/82693464/02d19e9e-c22b-4a9f-90ce-003bf3276e99)
-
 
 ## Lab 2: Implementing Multi-function Gate
 In this lab, we design, model, and simulate a Multi-Function Gate using both behavioral and structural description methodologies.
