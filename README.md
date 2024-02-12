@@ -7,6 +7,7 @@
 The Sequential Multiplier is a fundamental component in digital arithmetic units and processors for performing multiplication operations. It employs a shift-and-add algorithm to compute the product of two binary numbers sequentially. With careful design considerations, sequential multipliers can be optimized for speed, area, and power consumption to meet the requirements of various applications in digital systems.
 
 ![block diagram](https://github.com/karimmahmoud22/Digital_Design/assets/82693464/32bdd550-dd4e-4d97-a29d-c325b385a63e)
+![controller](https://github.com/karimmahmoud22/Digital_Design/assets/82693464/30ec17c3-c911-47f1-917a-f1f0d74c6659)
 ![1](https://github.com/karimmahmoud22/Digital_Design/assets/82693464/063da4bb-1929-42ca-b642-7c962f3f6b4d)
 ![waveform](https://github.com/karimmahmoud22/Digital_Design/assets/82693464/d00b7fe2-8b0e-4e5d-bb76-e68b5268d00e)
 ![results](https://github.com/karimmahmoud22/Digital_Design/assets/82693464/b7ec40a9-8f1e-473e-9c81-3a55bd2f894e)
