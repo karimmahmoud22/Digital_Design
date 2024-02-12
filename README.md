@@ -1,6 +1,7 @@
 # Digital Design 
 
-This Repo provides an overview of the various labs, along with their objectives and methodologies.
+  - Digital design is a branch of electrical engineering and computer science that focuses on the design and implementation of digital circuits and systems. 
+  - Digital circuits are circuits that operate on digital signals, which represent information using discrete values (usually binary digits 0 and 1).
 
 ## Project: Sequential Multiplier
 The Sequential Multiplier is a fundamental component in digital arithmetic units and processors for performing multiplication operations. It employs a shift-and-add algorithm to compute the product of two binary numbers sequentially. With careful design considerations, sequential multipliers can be optimized for speed, area, and power consumption to meet the requirements of various applications in digital systems.
